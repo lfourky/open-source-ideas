@@ -1,7 +1,7 @@
 
 
 # Activity Organizer 
-Purpose of activity organizer is to bring people together by organizing the their activities efficiently and intelligently.
+Purpose of activity organizer is to bring people together by organizing their activities efficiently and intelligently.
 
 ## Why?
 The idea is to make it simple for people to organize their activities, and invite other people to share the activities with them.
