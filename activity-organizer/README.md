@@ -13,7 +13,7 @@ The idea is to make it simple for people to organize their activities, and invit
 - Users can select a group of people to invite, or invite just a single person
 - (optional) users can select which people can't be invited to an activity
 - Activities can be public (recurring, e.g. group fitness activities like running, riding a bike) or private
-- 
+
 ## Basic flow
   - User A invites user B for a beer anytime this week, and selects timeslots which he/she prefers
 	  - user B accepts the offer, or re-schedules it for next week and suggest some time slots
