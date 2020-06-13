@@ -17,6 +17,6 @@ The idea is to make it simple for people to organize their activities, and invit
 ## Basic flow
   - User A invites user B for a beer anytime this week, and selects timeslots which he/she prefers
 	  - user B accepts the offer, or re-schedules it for next week and suggest some time slots
-	  - user A gets notified, and accepts it or decline it
+	  - user A gets notified, and accepts it or declines it
   - User C creates a private hiking event for next Saturday, and sends the invite to bunch of friends
   - User D creates a public bike riding event, which will occur this Sunday at noon, and everyone who wants to participate can accept
