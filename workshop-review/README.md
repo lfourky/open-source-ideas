@@ -13,3 +13,4 @@ In order to promote evergrowing quality of workshops, the people who hold the wo
 ## Basic flow
   - Person holding the workshop creates a new workshop under his/her account, then sends it to all the attendees so that they can review it
   - Person who attended the workshop receives the URL in his/her email, and writes a comment about the workshop, stating that it was very well organized, but it wasn't in-depth enough
+  - Person holding the workshop can now brag about their past workshops, by linking the URL of his/her user account on LinkedIn
